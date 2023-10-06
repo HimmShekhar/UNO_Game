@@ -1,0 +1,23 @@
+Task over the weekend:
+
+Himanshu:
+	
+	Implement the new rule.
+	Implement 'draw single card' rule (If player is able to play the drawn card, it should be played rather than keeping in hand)
+	Keep a check on maindeck on what happens if the maindeck is finished.
+
+Sam:
+	
+	Integerate interfaces/animation with the logic
+
+Peng:
+
+	Write logic to implement bot players and their action.
+
+Hao:
+
+	Work on animation and motion of cards.
+
+Nielsa:
+
+	Work on Main Screen, menu screen and end screen.
